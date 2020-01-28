@@ -15,7 +15,7 @@ public class AcTest {
 
         decreaseTemp.decreasing(room2);
         decreaseTemp.decreasing(room2);
-        decreaseTemp.decreasing(room2);
+        
 
         decreaseTemp.decreasing(room3);
     }
